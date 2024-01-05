@@ -1,1 +1,3 @@
-这是信息导论课的ID3决策树的代码实现以及相关的测试机以及训练集
+信息导论课个人作业:
+multiplebranches.cpp是基于ID3决策树的代码实现
+nursery_trainingdata.txt是数据来源
